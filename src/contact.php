@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<title>
 		Contact
 	</title>
 	<link href="style.css" type="text/css" rel="stylesheet">
 </head>
+
 <body>
 	<div id="header">
 		<h1 id="logo">Logo</h1>
@@ -31,7 +33,7 @@
 				</p>
 			</form>
 		</div>
-		
+
 	</div>
 	<div id="footer">
 		<nav>
@@ -41,5 +43,9 @@
 			</ul>
 		</nav>
 	</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="index.js"></script>
 </body>
+
 </html>
